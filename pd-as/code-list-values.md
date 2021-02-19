@@ -56,10 +56,10 @@ The following checks are performed for every feature in the dataset, for the 'op
 
 The ClassificationItemTypeValue codelist includes the values of the following "not extensible" code lists:
 
-	* AgeBy5YearsValue: http://inspire.ec.europa.eu/codelist/AgeBy5YearsValue
-	* AgeByYearValue: http://inspire.ec.europa.eu/codelist/AgeByYearValue
-	* NACECodeValue: http://inspire.ec.europa.eu/codelist/NACECodeValue
-	* GenderValue: http://inspire.ec.europa.eu/codelist/GenderValue
+* AgeBy5YearsValue: http://inspire.ec.europa.eu/codelist/AgeBy5YearsValue
+* AgeByYearValue: http://inspire.ec.europa.eu/codelist/AgeByYearValue
+* NACECodeValue: http://inspire.ec.europa.eu/codelist/NACECodeValue
+* GenderValue: http://inspire.ec.europa.eu/codelist/GenderValue
 
 
 ## Messages
